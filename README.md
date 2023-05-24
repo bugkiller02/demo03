@@ -42,7 +42,7 @@ This is a git test.
 
 游戏名|游戏价格|游戏排行
 ---|:-:|---:
-LOL88$|T|op1
+LOL|88$|Top1
 PUBG|78$|Top2
 CSGO|FREE|Top3
 
