@@ -40,11 +40,11 @@ This is a git test.
 
 ## 表格插入
 
-游戏名/游戏价格/游戏排行
----/:-:/---:
-LOL/88$/Top1
-PUBG/78$/Top2
-CSGO/FREE/Top3
+游戏名|游戏价格|游戏排行
+---|:-:|---:
+LOL88$|T|op1
+PUBG|78$|Top2
+CSGO|FREE|Top3
 
 ## 超链接
 [bilibili](https://www.bilibili.com "点击进入B站")
